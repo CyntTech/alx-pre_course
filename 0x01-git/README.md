@@ -1,1 +1,1 @@
-0x01-git
+My newly created 0x01-git directory
